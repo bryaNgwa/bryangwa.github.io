@@ -1,0 +1,22 @@
+{
+  "name": "bryangwa.github.io",
+  "homepage": "https://bryangwa.github.io",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Bryan Tanifum"
+  ],
+  "license": "Apache",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "impress-js": "impress.js#^1.0.0",
+    "jquery": "^3.3.1"
+  }
+}
